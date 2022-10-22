@@ -16,7 +16,7 @@
 <a href="your-instagram-URL"> </a>
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 <p align="center">
-## 🖥𝐒𝐊𝐈𝐋𝐋
+🖥𝐒𝐊𝐈𝐋𝐋
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
