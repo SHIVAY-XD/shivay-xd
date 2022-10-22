@@ -28,12 +28,12 @@
 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄
 </p>
 <p align="center">
-<a href="https://github.com/MFSTRING/MFSTRING/" title="MFSTRING"> <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFSTRING&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" /> </a>
+<a href="https://github.com/TEAMSTARWORLD/" title="TEAMSTARWORLD"> <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAMSTARWORLD&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" /> </a>
 <p align="center">
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 </p>
 <p align="center">
-<a href="https://github.com/MFSTRING/STARWORLD/" title="STARWORLD"> <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=MFSTRING&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
+<a href="https://github.com/TEAMSTARWORLD/" title="TEAMSTARWORLD"> <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TEAMSTARWORLD&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MFSTRING&custom_title=Contribution+Graph&theme=xcode"/>
 </p>
 
