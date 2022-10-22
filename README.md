@@ -7,10 +7,10 @@
 
 ## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ɪ ᴀᴍ ᴍᴇᴛᴇᴏʀɪᴛᴇ✨. ɪ ᴀᴍ ᴇxᴛʀᴇᴍᴇʟʏ ɴᴏᴏʙ ɪɴ ᴀʟʟ ᴛʜɪɴɢꜱ. ɪ ʟᴏᴠᴇ ᴛᴏ ᴄʜᴇᴄᴋ ,ᴇxᴀᴍɪɴᴇ ᴀɴᴅ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜ ꜱᴛᴜꜰꜰ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ᴀʟʟ ᴛᴇᴄʜ ꜱᴛᴜꜰꜰ ᴡʜɪᴄʜ ɪ ᴄᴀɴ ᴀʙʟᴇ ᴛᴏ ᴅᴏ ɪɴ ᴅᴀɪʟʏ ᴘᴜʀᴘᴏꜱᴇ - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ: ᴘʏᴛʜᴏɴ, ᴄ, ᴄ++, ᴊᴀᴠᴀ, ᴇᴛᴄ. 
 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒
+<p align="center">
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/TEAM-ABG/count.svg" />
 </p>
-<p align="center">
-<img width="50%" src="https://gpvc.arturio.dev/Mo-Tech-MRK-YT" alt="Profile views" />
-<p align="center">
 
 ### ꜰɪɴᴅ ᴍᴇ ᴏᴜᴛ ᴀᴛ
 [<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logocolor=white" alt="Telegram Badge"/>](https://t.me/TEACH_TEAMOP) 
