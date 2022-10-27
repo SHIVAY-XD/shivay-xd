@@ -31,8 +31,8 @@
 <p align="center">
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 </p>
-<p align="center" width="100%">
-<a href="https://github.com/TEAMSTARWORLD/" title="TEAMSTARWORLD"> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=TEAMSTARWORLD&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
+<p align="center">
+<a href="https://github.com/TEAMSTARWORLD/" title="TEAMSTARWORLD" width="100%"> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=TEAMSTARWORLD&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=TEAMSTARWORLD&custom_title=Contribution+Graph&theme=xcode"/>
 </p>
 
