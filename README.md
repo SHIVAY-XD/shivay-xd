@@ -32,7 +32,7 @@
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒
 </p>
 <p align="center">
-<a href="https://github.com/TEAMSTARWORLD/" title="TEAMSTARWORLD"> <img align="right" width="460" src="https://github-readme-stats.vercel.app/api?username=TEAMSTARWORLD&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
+<a href="https://github.com/TEAMSTARWORLD/" title="TEAMSTARWORLD"> <img align="center" width="460" src="https://github-readme-stats.vercel.app/api?username=TEAMSTARWORLD&show_icons=true&theme=react&border_color=61dafb&hide_border=false" /> </a>
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=TEAMSTARWORLD&custom_title=Contribution+Graph&theme=xcode"/>
 </p>
 
