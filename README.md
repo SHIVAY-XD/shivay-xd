@@ -1,5 +1,8 @@
 ## Hi there 👋
 # 𝐒𝐓𝐀𝐑-𝐓𝐄𝐀𝐌
+![logo](https://github.com/TEAMSTARWORLD/TEAMSTARWORLD/blob/main/Github%20Banner.png)
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <div id="badges" align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
