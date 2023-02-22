@@ -1,12 +1,5 @@
 ## Hi there 👋
 # 𝐒𝐓𝐀𝐑-𝐓𝐄𝐀𝐌
-![logo](https://github.com/TEAMSTARWORLD/TEAMSTARWORLD/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<div id="badges" align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
 ## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ɪ ᴀᴍ ᴍᴇᴛᴇᴏʀɪᴛᴇ✨. ɪ ᴀᴍ ᴇxᴛʀᴇᴍᴇʟʏ ɴᴏᴏʙ ɪɴ ᴀʟʟ ᴛʜɪɴɢꜱ. ɪ ʟᴏᴠᴇ ᴛᴏ ᴄʜᴇᴄᴋ ,ᴇxᴀᴍɪɴᴇ ᴀɴᴅ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜ ꜱᴛᴜꜰꜰ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ᴀʟʟ ᴛᴇᴄʜ ꜱᴛᴜꜰꜰ ᴡʜɪᴄʜ ɪ ᴄᴀɴ ᴀʙʟᴇ ᴛᴏ ᴅᴏ ɪɴ ᴅᴀɪʟʏ ᴘᴜʀᴘᴏꜱᴇ - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ: ᴘʏᴛʜᴏɴ, ᴄ, ᴄ++, ᴊᴀᴠᴀ, ᴇᴛᴄ. 
 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒
 <p align="center">
