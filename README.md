@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivay-xd https://github-readme-stats.vercel.app/api?username=shivay-xd&show_icons=true&locale=en&theme=tokyonight
 xd&show_icons=true&locale=en&theme=tokyonight RLD&show_icons=true&locale=en&theme=tokyonight" alt="shivay-xd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivay-xd&&theme=tokyonight" alt="shivay-xd" /></p>
