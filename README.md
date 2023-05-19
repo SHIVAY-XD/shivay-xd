@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄
-
-[![Shivay GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shivay-xd&&theme=xcode)](https://github.com/shivay-xd)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivay-xd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivay-xd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivay-xd https://github-readme-stats.vercel.app/api?username=shivay-xd&show_icons=true&locale=en&theme=tokyonight
