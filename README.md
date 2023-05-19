@@ -23,10 +23,10 @@
 </p>
 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄
 
-[![STAR's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=TEAMSTARWORLD&&theme=xcode)](https://github.com/TEAMSTARWORLD)
+[![STAR's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shivay-xd&&theme=xcode)](https://github.com/shivay-xd)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMSTARWORLD&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TEAMSTARWORLD" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivay-xd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivay-xd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMSTARWORLD&show_icons=true&locale=en&theme=tokyonight" alt="TEAMSTARWORLD" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMSTAR https://github-readme-stats.vercel.app/api?username=shivay-xd&show_icons=true&locale=en&theme=tokyonight WORLD&show_icons=true&locale=en&theme=tokyonight" alt="shivay-xd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TEAMSTARWORLD&&theme=tokyonight" alt="TEAMSTARWORLD" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivay-xd&&theme=tokyonight" alt="shivay-xd" /></p>
