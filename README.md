@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivay-xd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivay-xd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivay-xd https://github-readme-stats.vercel.app/api?username=shivay-xd&show_icons=true&locale=en&theme=tokyonight
-xd&show_icons=true&locale=en&theme=tokyonight RLD&show_icons=true&locale=en&theme=tokyonight" alt="shivay-xd" /></p>
+xd&show_icons=true&locale=en&theme=tokyonight RLD&show_icons=true&locale=en&theme=tokyonigt" </p>
 
