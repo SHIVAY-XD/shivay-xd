@@ -5,7 +5,7 @@
 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒
 <p align="center">
     <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TEAMSTARWORLD/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/shivay-xd/count.svg" />
 </p>
 
 ### ꜰɪɴᴅ ᴍᴇ ᴏᴜᴛ ᴀᴛ
