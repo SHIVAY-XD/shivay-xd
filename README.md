@@ -4,7 +4,8 @@
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
-## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ɪ ᴀᴍ ᴍᴇᴛᴇᴏʀɪᴛᴇ✨. 
+## Hi Guys <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+ɪ ᴀᴍ ᴍᴇᴛᴇᴏʀɪᴛᴇ✨. 
 
 ɪ ᴀᴍ ᴇxᴛʀᴇᴍᴇʟʏ ɴᴏᴏʙ ɪɴ ᴀʟʟ ᴛʜɪɴɢꜱ. ɪ ʟᴏᴠᴇ ᴛᴏ ᴄʜᴇᴄᴋ ,ᴇxᴀᴍɪɴᴇ ᴀɴᴅ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴛᴇᴄʜ ꜱᴛᴜꜰꜰ ɪ ᴡᴀɴᴛ ᴛᴏ ʟᴇᴀʀɴ ᴀʟʟ ᴛᴇᴄʜ ꜱᴛᴜꜰꜰ ᴡʜɪᴄʜ ɪ ᴄᴀɴ ᴀʙʟᴇ ᴛᴏ ᴅᴏ ɪɴ ᴅᴀɪʟʏ ᴘᴜʀᴘᴏꜱᴇ - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ: ᴘʏᴛʜᴏɴ, ᴄ, ᴄ++, ᴊᴀᴠᴀ, ᴇᴛᴄ. 
 
